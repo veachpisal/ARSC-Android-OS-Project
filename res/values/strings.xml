@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="app_name">ARSC</string>
+    <string name="intro">&quot;<b>About Us</b> \n\nThe Arctic Region Supercomputing Center serves the computational needs of the University of Alaska and the Department of Defense as a DoD Supercomputing Resource Center (DSRC) within the DoD\'s High Performance Computing Modernization Program (HPCMP). The center has been serving the computational needs of the academic and DoD community since 1993. ARSC computational systems and resources include a wide range of high performance computing, storage and visualization technology. ARSC is poised to meet northern challenges with global solutions.&quot;
+\n<b>Mission</b>
+\n\nThe mission of the Arctic Region Supercomputing Center is to provide an ensemble of outstanding expertise, state-of-the-art technology and innovative research projects that will:
+
+    \n\n• Enable the creation and discovery of knowledge in science, engineering and art.
+    \n• Enhance educational and research capabilities of the University of Alaska Fairbanks, Alaska and the United States.
+    \n• Advance knowledge of the polar regions.
+    \n• Contribute to a richer understanding of the world around us.
+\n\n<b>People</b>
+\n\nSpecialists at ARSC provide expertise in massively parallel supercomputing, parallel vector supercomputing, code optimization, storage, networking and visualization. ARSC’s relationship with the University of Alaska facilitates collaborative research opportunities for academic and government scientists. These areas of research include ice, ocean and atmospheric coupled modeling; regional climate modeling; global climate change; permafrost, hydrology and arctic engineering; magnetospheric, ionospheric and upper atmospheric physics; volcanology and geology; petroleum and mineral engineering; genomics and proteomics; and arctic biology. ARSC actively participates in a joint-faculty program supporting University of Alaska Fairbanks (UAF) researchers in several departments across campus. ARSC staff provide on-site training and support UAF classes throughout the year.
+<b>Alaska Weather Symposium</b>
+
+\n\nThe 2011 Alaska Weather Symposium was held on the campus of the University of Alaska Fairbanks March 15-16, organized and sponsored by the Alaska Region NOAA National Weather Service, the Arctic Region Supercomputing Center, UAF College of Natural Science and Mathematics, UAF Geophysical Institute and the International Arctic Research Center. Annual AWS gatherings facilitate the exchange of operational and research information related to weather in the Alaska environment, with participation from academic, research, government, military and private sectors.
+HPC Application Acceleration
+
+\n\nA National Science Foundation-funded workshop on the topic of application acceleration for high performance computing was held in Beijing, China, Oct. 21-23, 2010. ARSC\'s Chief Scientist Greg Newby was a conference convener and principal investigator of the NSF grant. More information about the workshop is available at www.arsc.edu/science/acceleration2010/         \n\n<b>Real-time Weather Forecasting</b>
+ 
+\n\nARSC has been active on many fronts in the production of real-time weather forecasts in Alaska. Real-time forecasts have included ARSCwrf, incorporated into the Advanced Weather Interactive Prediction System at the National Weather Service, Alaska WRF Midterm forecasts,UAF wildfire smoke forecasts, and recently a prototype implementation of an ARSC High Resolution Rapid Refresh model run.
+ \n\n<b>New Technologies for High Performance Computing</b> \n\nARSC has been active at hands-on evaluation of new technologies for high performance computing. A Symposium on Multicore and New Processing Technologies in 2007 helped to set the stage for these ongoing investigations. Recent topics of interest, pursued at ARSC by full time staff, students, interns, and partners, have revealed benefits and shortcomings of next-generation technologies for different purposes in high performance computing. Specific hardware technologies have included the Cell BE processor, general-purpose graphics processing units, field-programmable gate arrays, chip multithreading, and solid state drives. ARSC has also evaluated software technologies, including programming languages for reconfigurable computing, software development kits for the Cell BE and GPUs, and parallel global address space (PGAS) languages.
+        
+\n\n<b>ARSC Robots Project</b>\n\nVisit the new ARSC Robots Project site at http://robots.arsc.edu   \n\n<b>Space Weather</b>
+
+\n\nHPC Specialists Sergei Maurits and Anton Kulchitsky contribute into Space Physics research efforts at the ARSC. The focus is on maintaining the Space Weather portal at http://spaceweather.arsc.edu, where users can check the latest results from continuously running UAF EPPIM (locally developed Eulerian Parallel Polar Ionosphere Model), as well as the current geomagnetic activity and solar wind indices from the NOAA Space Prediction Center (SPC). The ionospheric modeling is performed with locally developed model UAF EPPIM, driven by automatically updated current inputs from NOAA SPC. These inputs include parameters of the upstream solar wind, thus facilitating short-term (2-3 hours) ionospheric forecasts with advance defined by delay of the solar wind propagation toward the Earth.
+
+\n\nComparisons of the modeled ionospheric parameters with the data from NOAA ionosonde real-time network are continuously available at the portal. These comparisons help to monitor the model performance and contribute into the model-validating database of the comparisons. Solar wind propagation model, newly developed by Anton Kulchotsky, helps to improve the forecasting scheme by adjusting the propagation times and, thus, more precise determination of the solar wind disturbances arrival and their immediate influence on the polar and adjacent sub-polar ionosphere. The solar wind propagation model allows for better understanding of the solar wind structures at 1AU and can be used with various space weather forecasting tools.
+
+\n\nThe EPPIM model is capable to generate 3-D time-dependent distribution of ionospheric parameters with high-resolution, realistically representing electron density gradients. Thus, its output is applicable for various radio-wave propagation tasks. Several projects in this field were completed recently.</string>
+    <string name="contact">This is our contact page.</string>
+    <string name="footer"><b>ARSC DoD Supercomputing Resource Center</b>
+\nPO Box 756020, Fairbanks, AK 99775 \n| voice: 907-450-8600 | fax: 907-450-8603 | \nemail: info@arsc.edu</string>
+    <string name="about">Here are some of the many interesting facts about arsc.</string>
+    <string name="resource">&quot;<b>Computing Resources:</b>
+
+\n\nARSC operates the following supercomputing resources to support our user community.
+
+\n\n<b>HPCMP Resources:</b>
+
+\n\n• Chugach -- 11648-processor Cray XE6 (computational)
+\n• Wiseman -- Sun SPARC Enterprise T5440 Server (storage)
+\n• StorageTek robotic tape library (storage)
+
+\n\n<b>Academic Resources:</b>
+
+\n\n•Pacman -- 2080-processor Penguin Computing Cluster (computational)
+\n•Midnight -- 1024-processor Sun Opteron Cluster (computational)
+\n•Bigdipper -- Sun SPARC Enterprise T5440 Server (storage)
+
+\n\n<b>Research Systems:</b>
+
+\n\n• Quasar -- IBM QS22 System
+
+\n\n<b>Visualization</b>
+
+\n\nARSC provides Apple Macintosh and Sun Linux workstations supporting a variety of visualization and analysis software for training, research and educational purposes. ARSC also provides an access lab in the Duckering Building for use by faculty, researchers and students.
+
+\n\nThe access and training lab are also equipped with Sun Linux workstations which are available for local console and remote access, as follows:
+
+\n\n<b>Duckering 234</b>: magpie, mallard, puffin, wood, ruddy, and hookbill.
+\n\n<b>West Ridge Research Building 009</b>: aphrodite, apollo ares, artimus, athena, demeter, dionysus, hades, hera, hermes, hestia, poseidon, and zeus.
+
+\n\n<b>People</b>
+
+\n\nARSC consultants and specialists provide direct assistance to ARSC users. Consultants give training and support to any users by phone, email, and on-site, as needed, while specialists provide expertise in specialized areas, such as massively parallel programming and code migration and optimization.
+
+\n\nARSC\'s relationship with the University of Alaska facilitates collaborative research opportunities for academic and government scientists. Areas of research include ice, ocean and atmospheric coupled modeling; regional climate modeling; global climate change; permafrost, hydrology and arctic engineering; magnetospheric, ionospheric and upper atmospheric physics; volcanology and geology; petroleum and mineral engineering; and arctic biology. ARSC actively participates in a joint-faculty program supporting University of Alaska Fairbanks (UAF) researchers in several departments across campus.
+&quot;</string>
+    <string name="news">
+    <b>International meeting of supercomputing scientists in Fairbanks</b>
+\nMay 17, 2011
+    \n\nFairbanks, Alaska—More than 100 scientists, technical experts and users of high-performance computing (HPC) resources will gather in Fairbanks May 23 – 26 for the 53rd meeting of the Cray User Group. The CUG 2011 conference will bring together owners and operators of Cray supercomputers to discuss how to improve the performance of supercomputing machines and HPC applications to advance scientific discovery and economic success.
+
+\n\nKeynote speaker at CUG 2011 is David Newman, professor of physics at the University of Alaska Fairbanks. Newman is also the director of the Center for Complex Systems Studies at UAF where the focus of his physics research includes a fundamental understanding of turbulence and turbulent transport. According to Newman, the issues involved in this have underpinned a number of “Grand Challenge” scale problems from climate to plasmas. Newman’s work at ARSC includes modeling the dynamics of complex systems such as the power transmission grid and communications.
+
+\n\nBefore coming to UAF, Newman was selected as a Wigner Fellow at Oak Ridge National Laboratory, where he was a research scientist from 1993-1998. In 1997, he was awarded the Presidential Early Career Award for Scientists and Engineers.
+
+\n\nUAF associate professor of mathematics Ed Bueler is scheduled to talk with conference participants about the need for physics-based models that connect warming in the Polar Regions to the behavior of ice sheets, especially their contribution to sea levels worldwide. According to Bueler, models that connect hard-to-observe local processes to global flow consequences are not as mature as for other climate components.
+\n\nBueler will discuss the UAF-developed Parallel Ice Sheet Model (PISM) that is already being recognized internationally for its value in helping to better predict the rate at which ice covering Greenland (and Antarctica) is changing, and its effects on sea levels globally.
+ \n\nAlso expected to address the conference, which takes place at the Westmark Hotel, are Cray Inc. President and CEO Peter Ungaro, and current Cray User Group board president Nicholas P. Cardo with the National Energy Research Scientific Computing Center at California’s Lawrence Berkeley National Laboratory.
+ \n\n\“CUG 2011 will be a rewarding, educational and memorable experience for all attendees and their families, many of which will be visiting Alaska for the first time,\” said Liam Forbes, ARSC HPC systems analyst and current CUG board secretary. Forbes received his bachelor\'s degree in computer science from UAF in 1995, the same year a paper he co-authored earned the highest ranking in the Society for Industrial and Applied Mathematics International Mathematical Contest in Modeling. He began working at ARSC in 1995 and in 1998, received his master\'s degree in computer science from UAF.
+\n\n“The CUG 2011 program committee has assembled a diverse and impressive array of detail-packed presentations as parallel technical sessions, tutorials, and Special Interest Group (SIG) meetings,” said Forbes.\n\nThe technical program includes many talks encompassing all aspects of Cray HPC systems, from management to taking full advantage of the newest Cray XE-6 architecture. A number of talks will highlight the improvements and benefits of the XE-6 to the scientific community, including a presentation by ARSC on recent successes in pushing the Weather Research and Forecasting (WRF) model to more than one billion grid points. ARSC recently tested the model on a real-world weather scenario over the North Pacific and Arctic, providing 1-kilometer horizontal resolution over the entire region.\n\nARSC previously hosted the CUG conference in 1995. Since ARSC’s first compute cycles were realized in 1993, the staff at ARSC have established a reputation for outstanding service in all aspects of high-performance computing, massive data storage and network support. During that time, ARSC has also been actively engaged with University of Alaska research, leveraging the support of the U.S. Department of Defense High Performance Computing Modernization Program to serve multiple communities, and provide bridges between them. \n\nARSC is currently transitioning from a DoD Supercomputing Resource Center to supercomputing unit at UAF designed specifically to meet academic and research needs of university staff, faculty and students. UAF has created continuing staff positions, which augment positions funded through external grants and contracts, to sustain ARSC’s service to the university and broader constituencies.\n\nCONTACT: Barbara Horner-Miller, ARSC associate director and CUG 2011 local arrangements chair (907) 450-8629 or cug2011@cug.org or Liam Forbes, ARSC HPC systems analyst and CUG board secretary (907) 450-8618 or forbes@arsc.edu.
+    \n\n\n<b>Digitally integrated field guide to Alaska now available online</b>
+\nMay 5, 2011
+\n\nFairbanks, Alaska—Just in time for the annual flood of summer tourists to the Last Frontier, a new website connecting Alaskan field scientists with those curious about Arctic discoveries is now available online.
+\n\nFrontier Scientists shares first-person accounts and real time insights from leading archeologists, grizzly bear biologists, volcano researchers, climate change specialists and other scientists.
+\n\n“We want to let travelers, teachers, students, aspiring scientists, and anyone else interested in science feel as if they are along when our team is tracking a grizzly or documenting how climate change is disrupting Alaskan ways of life,” explains Greg Newby, Chief Scientist of the Arctic Region Supercomputing Center at the University of Alaska Fairbanks. “Visitors to Frontier Scientists can ask their own questions to our scientists directly, follow some of them on Twitter and Facebook, and converse on their blogs.”\n\nNewby has received funding from the National Science Foundation EAGER (EArly-concept Grants for Exploratory Research) program to support \&quot;small-scale, exploratory, high-risk, potentially transformative, time-critical research in the fields of science, engineering and education.\&quot; The NSF-funded project, \&quot;DIG Frontier Scientists\&quot; (DIG-Digitally Integrated Guide) will \&quot;widen the general public’s interaction with the cultural and natural environment by allowing them to access Web sites and load their handheld mobile devices with engaging descriptions of research,\&quot; according to Newby.
+\n\nThe one-year, experimental DIG project also includes funding for one graduate and two undergraduate students at UAF to assist in the delivery of digital videos to computers and mobile devices.
+\n\nCo-investigator on the project with Newby is Elizabeth O’Connell, producer, editor and project manager for WonderVisions. O’Connell is a University of Alaska broadcast media graduate. Her award winning programs include the “Science of Whales,” which aired nationally on the Discovery Channel.
+\n\nAccording to O’Connell, fascinating footage of current scientific discoveries in some of the Arctic’s most remote and dramatic landscapes are chronicled in short vodcasts, Twitter feeds, blogs and web reports on Frontier Scientists. The research is organized into categories:
+\n\n• Grizzlies
+\n• Petroglyphs
+\n• Cook Inlet Volcanoes
+\n• Alutiiq Weavers
+\n• Climate Change Watch
+\n\nFrontier Scientists also provides resources and tips on things to do in Alaska for those considering travel to the Last Frontier state, whether on an Alaska cruise or a backpacking expedition.
+
+\n\nFrontier Scientists is funded by the National Science Foundation, with additional support from the National Park Service and 360 North television.
+\n\nCONTACT: Dr. Greg Newby, ARSC chief scientist at (907) 450-8663 or newby@arsc.edu, or Elizabeth Connelly, Frontier Scientists co-principal investigator at (541) 312-2419 or wondervision2@yahoo.com.
+
+\n\n\n<b>ARSC reconfigured to meet UAF research needs</b>
+\nFebruary 4, 2011
+
+\n\nDear colleagues,
+\n\nI am writing to update you on ARSC\'s ongoing viability and capability to serve the large-scale computational and storage needs of the UAF community. Several weeks ago, a search committee was formed to review applications and meet with candidates for continuing positions at ARSC. The search committee consisted of ARSC Director Frank Williams, Associate ARSC Director Barbara Horner-Miller, UAF HR Director Kris Racina, and me, ARSC chief scientist.
+\n\nThanks to the administration\'s commitment to provide FY12 funding, for supercomputing support to UAF\'s academic and research community, the following individuals will be in continuing positions at ARSC effective June 1, 2011:
+
+\n\nChief Scientist: Greg Newby
+\nNetwork Support: Tom Bachert
+\nUser Support: Don Bahls, Oralee Nudson
+\nHPC Systems Support: Kurt Carlson, Jeremiah Dabney, Liam Forbes
+\nStorage Support: Brad Havel, Gene McGill
+\nFiscal Technician: Sabrina Cook
+\n\nIn addition, ARSC management has worked with UAF for additional term-funded positions for those with extensive current research funding. In addition to working on and towards their funded efforts, they will be engaged in the operation of ARSC, alongside the personnel in the continuing positions. The balance of activity, and the nature of their term appointment, varies with individual circumstances:
+\n\nChris Fallen (space physics, mathematics); Kate Hedstrom (regional ocean modeling systems); Jonathan Horen (bioinformatics); Jeremy Krieger (atmosphere and climate); Anton Kulchitsky (space physics, mathematics and discrete element modeling); Tom Logan (tsunami application, parallelization, porting and HPC training); Don Morton (computational science and weather modeling).
+\n\nLet me also use this opportunity to update you on our newly expanded Pacman supercomputing cluster and the Big Dipper storage system. The Pacman cluster was first deployed in February 2010, and was expanded in November/December 2010. It now has over 2,000 computational cores, and includes large memory nodes and GPU-enabled nodes. The Big Dipper system is our new front end for archival storage, with hundreds of terabytes of disk backed by over 6 petabytes of theoretical storage capacity. These systems were purchased with funds from two NSF grants (one with Buck Sharpton as PI, another with me as PI), augmented by investment by ARSC and the UAF Vice Chancellor for Research. These systems, which will see further upgrades in 2011, have capacity to handle today\'s known computational and storage projects at UAF. We welcome your use of these systems.
+\n\nARSC will be in a period of change for upcoming months, and I will update you as more information becomes available and we move along. We are saddened that we will lose many valued professionals from ARSC, who have done an exemplary job of providing service in all aspects of high-performance computing support. However, as you can see from the number and skill sets of the continuing staff, you can be assured that the continued management of ARSC as an academic research computing facility is on sound footing. You have worked with many of these individuals in the past and can attest to the quality HPC resources that they are able to provide, in order for you to conduct computationally-based research successfully.
+
+\n\nPlease contact me, the ARSC consultants or other members of the ARSC team to discuss these issues further, and to share your ideas for the future.
+
+\n\nSincerely,
+\n\nGreg Newby
+
+\n\n\n<b>Academic supercomputing capabilities expand</b>
+\nNovember 28, 2010
+\n\nFairbanks, Alaska— Academic supercomputing capabilities at the University of Alaska have expanded under a $1.4 million Major Research Instrumentation grant 
+to the Arctic Region Supercomputing Center. The National Science Foundation cyberinfrastructure grant will allow ARSC to provide 18 million additional computing hours on Pacman, a supercomputing cluster manufactured by Penguin Computing and used to support the Pacific Area Climate Modeling and Analysis Network.\n\nCyberinfrastructure consists of computing systems, data sources and data storage systems, visualization environments and support staff, all linked by high speed networks to make discoveries and innovations not otherwise possible. Working with UAF\'s scientists and engineers, ARSC has identified 13 focus areas that are ripe for enhancement in a cyberenvironment. The targeted Arctic research areas cross several disciplines including the mathematical and social sciences, eng
+ineering, biology and climate research. Among the projects cited as a critical need for enhancements under the NSF cyberinfrastructure grant is in life sciences
+, specifically in the area of increased computational capacity for population genetics analyses, increased storage capacity so that researchers can take advantage of Next Generation Sequencing (NGS) technology, and development of an off-site data storage backup strategy.\n\nHigh-performance computing (HPC) is considered to be the backbone of modern population genetics and phylogenetics, a field in which UAF has gained notoriety
+ in the past decade. Computational requirements for modern biological analyses, especially those used in genomics and evolutionary biology, require large amount
+s of high-speed data storage and processing power. In some cases, analysis runs can take from weeks to months, and the number of researchers at UAF involved in life sciences research has increased, but the modern computational resources to support them have fallen behind.
+
+\n\nCONTACT: 
+\n\nGreg Newby, ARSC chief scientist, at 907-450-8663 or newby@arsc.edu 
+\n\nDebra Damron, ARSC communications group lead, at 907-450-8662 or damron@arsc.ed
+u.
+</string>
+     <string name="frankwilliams">Frank Williams \nDirector \n\n\n\n\n907-450-8612 \nwilliams@arsc.edu</string>
+     <string name="virginiabedford">Virginia Bedford \nAssociate Director \n\n\n\n\n907-4508630 \nbedford@arsc.edu</string>
+     <string name="barbarahornermiller">Barbara Horner-Miller \nAssociate Director \n\n\n\n\n907-450-8629 \nhornermillard@arsc.edu</string>
+     <string name="gregnewby">Greg Newby \nChief Scientist \n\n\n\n\n907-450-863\nnewby@arsc.edu</string>
+     <string name="donbahls">Don Bahls \nUserConsultant\nGroup Leader \n\n\n\n907-450-8674\nbahls@arsc.edu</string>
+     <string name="lawrencemurakami">Lawrence Murakami\nUser Consultant\n\n\n\n\n 907-450-8628\nmurakami@arsc.edu</string>
+     <string name="oraleenudson">Oralee Nudson\nUser Consultant \n\n\n\n\n 907-450-8637\nnudson@arsc.edu</string>
+     <string name="tombachert">Tom Bachert\nNetwork Systems Analyst\nGroup Leader \n\n\n\n907-450-8625\nbachert@arsc.edu</string>
+     <string name="nathanbills">Nathan Bills\nNetwork Specialist\n\n\n\n\n 907-450-8627\nbills@arsc.edu</string>
+     <string name="jeffharrison">Jeff Harrison\nNetwork Engineer\n\n\n\n\n 907-450-8685\nharrison@arsc.edu</string>
+     <string name="edkornkven">Edward Kornkven\nHPC Specialist\nGroup Leader \n\n\n\n 907-450-8669\nkornkven@arsc.edu</string>
+     <string name="antonkulchitsky">Anton Kulchitsky\nHPC Specialist \n\n\n\n\n 907-450-8689\nkulchitsky@arsc.edu</string>
+     <string name="tomlogan">Tom Logan \nHPC Specialist \n\n\n\n\n 907-450-8624\nlogam@arsc.edu</string>
+     <string name="derekbastille">Derek Bastille \nUser Consultant\nGroup Leader \n\n\n\n 907-450-8643\nbastille@arsc.edu</string>
+     <string name="tombaring">Thomas Baring\nWeb Specialist \n\n\n\n\n 907-450-8619\nbaring@arsc.edu</string>
+     <string name="garyhagestead">Gary Hagestead\nInformation Systems Manager\n\n\n\n\n907-450-8642\nhagestead@arsc.edu</string>
+     <string name="jamiemarschner">Jamie Marschner\nUser Consultant\n\n\n\n\n907-450-8636\nmarschner@arsc.edu</string>
+     <string name="brandonbecker">Brandon Becker\nSystems Analyst\nGroup Leader \n\n\n\n 907-450-8668\nbecker@arsc.edu</string>
+     <string name="robcermak">Rob Cermak\nSystems Analyst\n\n\n\n\n907-450-8638\ncermak@arsc.edu</string>     
+     <string name="chrisfallen">Chris Fallen\nResearch Assistant Professor\n\n\n\n\n 907-450-8687\nfallen@arsc.edu</string>
+     <string name="katehedstrom">Kate Hedstrom\nOceanographic Specialist\n\n\n\n\n907-450-8678\nhedstrom@arsc.edu</string>
+     <string name="jeremykrieger">Jeremy Krieger\nHPC Specialist\n\n\n\n\n907-450-8632\nkrieger@arsc.edu</string>
+     <string name="sergeimaurits">Sergei Maurits\nHPC Specialist\n\n\n\n\n 907-450-8697\nmaurits@arsc.edu</string>
+     <string name="donmorton">Don Morton\nResearch Professor\n\n\n\n\n907-450-8679\nmorton@arsc.edu</string>
+     <string name="liamforbes">Liam Forbes\nHPC Systems Analyst\nGroup Leader\n\n\n\n907-450-8618\nforbes@arsc.edu</string>
+     <string name="kurtcarlson">Kurt Carlson\nSystems Programmer\n\n\n\n\n907-450-8640\ncarlson@arsc.edu</string>
+     <string name="jeremiahdabney">Jeremiah Dabney\nHPC Systems Analyst\n\n\n\n\n907-450-8698\ndabney@arsc.edu</string>
+     <string name="jonathanhoren">Jonathan Horen\nHPC Systems Administrator\n\n\n\n\n 907-450-8694\nhoren@arsc.edu</string>
+     <string name="janjulian">Jan Julian\nHPC Systems Analyst\n\n\n\n\n907-450-8641\njulain@arsc.edu</string>
+     <string name="eugenemcgill">Eugene McGill\nMass Storage Specialist\nGroup Leader\n\n\n\n907-450-8633\nmcgill@arsc.edu</string>
+     <string name="daleclark">Dale Clark\nHPC Systems Analyst\n\n\n\n\n907-450-8621\nclark@arsc.edu</string>
+     <string name="bradhavel">Brad Havel\nHPC Systems Analyst\n\n\n\n\n907-450-8710\nhavel@arsc.edu</string>
+     <string name="bethmercer">Beth Mercer\nDatabase Administrator\n\n\n\n\n907-450-8713\nmercer@arsc.edu</string>
+     <string name="sabrinacook">Sabrina Cook\nAdministrative Assistant/Purchasing\n\n\n\n\n907-450-8620\ncook@arsc.edu</string>
+     <string name="shannonkristeller">Shannon Kristellre\nFiscal Manager\n\n\n\n\n907-450-8611\nkristeller@arasc.edu</string>
+     <string name="cynthiasteiner">Cynthia Steiner\nAssistant to the Directors\n\n\n\n\n 907-450-8612\nsteiner@arsc.edu</string>
+     <string name="debradamron">Debra Damron\nPublications Specialist\nGroup Leader\n\n\n\n 907-450-8662\ndamron@arsc.edu</string>
+
+     
+</resources>

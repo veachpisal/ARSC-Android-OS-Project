@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout 
+	android:id="@+id/main"
+	android:layout_height="fill_parent" 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" 
+	android:orientation="vertical"
+	android:background="#CCCCCC">
+	<RelativeLayout
+		android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:layout_centerHorizontal="true"
+    	android:layout_marginBottom="55dip"
+    	android:background="#000000">
+        </RelativeLayout>	
+    <VideoView 
+    	android:id="@+id/VideoView" 
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:layout_centerHorizontal="true"
+    	android:layout_marginBottom="55dip"
+    	></VideoView>  
+    <RelativeLayout
+		android:id="@+id/InnerRelativeLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerInParent="true">
+        <TextView
+ 		android:id="@+id/covervid"
+     	android:layout_height="fill_parent"
+     	android:layout_width="fill_parent"
+     	android:background="#424242"
+     	android:text="Please Choose an Option:
+     	\n\nStream the video
+     	\nDownload the video
+     	\nPlay video from your SD Card
+     	\nUpdate your SD Card"
+     	style="@style/Header"
+     	android:layout_marginBottom="55dip">
+     	</TextView>                
+        <Button
+ 		android:id="@+id/button"
+     	android:layout_height="wrap_content"
+     	android:layout_width="wrap_content"
+     	android:layout_alignParentLeft="true"
+     	android:layout_alignParentBottom="true"
+     	android:text="Stream"/>
+     
+     	<Button
+ 		android:id="@+id/button1"
+     	android:layout_height="wrap_content"
+     	android:layout_width="wrap_content"
+     	android:layout_toRightOf="@id/button"
+     	android:text="Download"
+     	android:layout_alignParentBottom="true"/>
+     	<Button
+ 		android:id="@+id/button3"
+     	android:layout_height="wrap_content"
+     	android:layout_width="wrap_content"
+     	android:layout_toRightOf="@id/button1"
+     	android:text="From SD"
+     	android:layout_alignParentBottom="true"
+     	/>
+     	<Button
+ 		android:id="@+id/button2"
+     	android:layout_height="wrap_content"
+     	android:layout_width="wrap_content"
+     	android:text="Back"
+     	android:layout_toRightOf="@id/button3"
+     	android:layout_marginRight="8dip"
+     	android:layout_alignParentBottom="true"/>
+     	
+ 		
+         <TextView 
+ 		android:id="@+id/textView1" 
+  		android:layout_width="wrap_content" 
+ 		android:layout_height="wrap_content"
+ 		android:layout_toRightOf="@id/button2"
+ 		android:layout_alignTop="@id/button2"
+ 		android:textAppearance="@style/small"
+ 		android:layout_marginBottom="2dip"
+ 		></TextView>  
+ 		<ProgressBar
+ 		android:id="@+id/progressbar"
+         android:layout_width="200dip"
+         android:layout_height="wrap_content"
+         style="@android:style/Widget.ProgressBar.Horizontal"        
+         android:layout_toRightOf="@id/button2"
+		android:layout_below="@id/textView1"    
+         />	
+
+     	
+       	</RelativeLayout>
+</RelativeLayout>
